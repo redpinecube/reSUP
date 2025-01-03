@@ -1,5 +1,5 @@
 ## Abstract
-![240_F_263793990_zyvIESMrc8FTrdLvp9rAe2YFlTuMt88i](https://github.com/user-attachments/assets/668a85e6-6829-490d-bd34-7a203e6f34f8)
+<img src="https://github.com/user-attachments/assets/c6714bee-4e7b-4351-9d81-b63882b59f9c" width="200"/>
 
 This research investigates the role of image resolution enhancement through interpolation techniques in improving the performance of machine learning (ML) models. Image resolution has a profound impact on ML tasks, as higher-resolution images often contain more detailed features, which can lead to improved model accuracy, particularly in domains like medical imaging and satellite imagery. This study explores various interpolation methods, including traditional approaches (e.g., bilinear, bicubic) and advanced deep learning-based techniques (e.g., super-resolution convolutional neural networks and generative adversarial networks), to evaluate their efficacy in enhancing image quality and the subsequent performance of ML models. The research focuses on medical imaging, where improved resolution can aid in more accurate disease detection (e.g., tumor detection in MRI/CT scans) and medical image segmentation, as well as satellite imagery, where higher resolution can enhance object detection and land use classification.
 
